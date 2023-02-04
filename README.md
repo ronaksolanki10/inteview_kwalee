@@ -121,13 +121,13 @@ Note: Current Avtar Will be returned based on the user logged in by passing Acce
 
 ### Users
 
-1. Email: john.miles@kwalee.com
+1. Email: john.miles@test.com
 Password: John@123
 
-2. Email: stefen.robot@kwalee.com
+2. Email: stefen.robot@test.com
 Password: Stefen@123
 
-3. Email: mike.thomson@kwalee.com
+3. Email: mike.thomson@test.com
 Password: Mike@123
 
 Note: Every user is created with initial balance of 3000 /-
