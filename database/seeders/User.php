@@ -25,17 +25,17 @@ class User extends Seeder
         $users = [
             [
                 'name' => 'John Miles',
-                'email' => 'john.miles@kwalee.com',
+                'email' => 'john.miles@test.com',
                 'password' => Hash::make('John@123')
             ],
             [
                 'name' => 'Stefen Robot',
-                'email' => 'stefen.robot@kwalee.com',
+                'email' => 'stefen.robot@test.com',
                 'password' => Hash::make('Stefen@123')
             ],
             [
                 'name' => 'Mike Thomson',
-                'email' => 'mike.thomson@kwalee.com',
+                'email' => 'mike.thomson@test.com',
                 'password' => Hash::make('Mike@123')
             ],
         ];
