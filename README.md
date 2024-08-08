@@ -1,5 +1,5 @@
 
-# Kwalee Assessment
+# Assessment
 
 A project is about to build a Backend for the Avtar Management System (Dress Up Feature)
 
